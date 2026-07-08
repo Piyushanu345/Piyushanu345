@@ -22,8 +22,8 @@
 - 🌱 Actively practicing **DSA in Java** — arrays, sliding window, trees, stacks, linked lists, BFS/DFS
 - 🧠 Exploring AI concepts like **RAG (Retrieval-Augmented Generation)** and **Agentic RAG**
 - 🏆 Hackathon participant — always up for building something under pressure
-- 📍 From Uttarakhand, India
-- 🎬 Off-screen: movies, anime, and gym
+- 📍 From Bihar, India
+
 
 ---
 
